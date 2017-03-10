@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test" duration-ms="74" started-at="2017-01-17T21:47:13Z" finished-at="2017-01-17T21:47:13Z">
+    <groups>
+      <group name="Priority1">
+        <method signature="AnnotationFirst.logIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="logIn" class="test.framework.testngfirst.AnnotationFirst"/>
+      </group> <!-- Priority1 -->
+    </groups>
+    <test name="Smoke Testcases" duration-ms="74" started-at="2017-01-17T21:47:13Z" finished-at="2017-01-17T21:47:13Z">
+      <class name="test.framework.testngfirst.AnnotationFirst">
+        <test-method status="PASS" signature="deleteCookiesBefore()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="deleteCookiesBefore" is-config="true" duration-ms="10" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookiesBefore -->
+        <test-method status="PASS" signature="adminLogIn(java.lang.String)[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="adminLogIn" duration-ms="6" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haqasad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogIn -->
+        <test-method status="PASS" signature="generateUserID()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="generateUserID" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserID -->
+        <test-method status="PASS" signature="addingReport()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="addingReport" is-config="true" duration-ms="1" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingReport -->
+        <test-method status="PASS" signature="flightBooking()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="flightBooking" duration-ms="3" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightBooking -->
+        <test-method status="PASS" signature="generateUserID()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="generateUserID" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserID -->
+        <test-method status="PASS" signature="addingReport()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="addingReport" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingReport -->
+        <test-method status="PASS" signature="generateUserID()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="generateUserID" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserID -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="logIn" duration-ms="4" started-at="2017-01-17T13:47:13Z" data-provider="getData" finished-at="2017-01-17T13:47:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[asad@email.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="addingReport()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="addingReport" is-config="true" duration-ms="1" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingReport -->
+        <test-method status="PASS" signature="generateUserID()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="generateUserID" is-config="true" duration-ms="1" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserID -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="logIn" duration-ms="1" started-at="2017-01-17T13:47:13Z" data-provider="getData" finished-at="2017-01-17T13:47:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sameer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mno]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sameer@email.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="addingReport()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="addingReport" is-config="true" duration-ms="1" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingReport -->
+        <test-method status="PASS" signature="logIn(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="logIn" duration-ms="2" started-at="2017-01-17T13:47:13Z" data-provider="getData" finished-at="2017-01-17T13:47:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[troy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[troy@email.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="generateUserID()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="generateUserID" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserID -->
+        <test-method status="PASS" signature="addingReport()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="addingReport" is-config="true" duration-ms="1" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingReport -->
+        <test-method status="PASS" signature="openingBrowser()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="openingBrowser" duration-ms="1" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method status="PASS" signature="generateUserID()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="generateUserID" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateUserID -->
+        <test-method status="PASS" signature="addingReport()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="addingReport" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingReport -->
+        <test-method status="PASS" signature="deleteCookiesAfter()[pri:0, instance:test.framework.testngfirst.AnnotationFirst@215be6bb]" name="deleteCookiesAfter" is-config="true" duration-ms="0" started-at="2017-01-17T13:47:13Z" finished-at="2017-01-17T13:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookiesAfter -->
+      </class> <!-- test.framework.testngfirst.AnnotationFirst -->
+    </test> <!-- Smoke Testcases -->
+  </suite> <!-- Automation Test -->
+</testng-results>
